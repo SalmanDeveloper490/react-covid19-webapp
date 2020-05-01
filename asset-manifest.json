@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-covid19-webapp/static/css/main.f122c85e.chunk.css",
+    "main.js": "/react-covid19-webapp/static/js/main.aba56570.chunk.js",
+    "main.js.map": "/react-covid19-webapp/static/js/main.aba56570.chunk.js.map",
+    "runtime-main.js": "/react-covid19-webapp/static/js/runtime-main.893eef95.js",
+    "runtime-main.js.map": "/react-covid19-webapp/static/js/runtime-main.893eef95.js.map",
+    "static/js/2.350618e2.chunk.js": "/react-covid19-webapp/static/js/2.350618e2.chunk.js",
+    "static/js/2.350618e2.chunk.js.map": "/react-covid19-webapp/static/js/2.350618e2.chunk.js.map",
+    "index.html": "/react-covid19-webapp/index.html",
+    "precache-manifest.ceb1ce03ce00850bb71d614d872c8c07.js": "/react-covid19-webapp/precache-manifest.ceb1ce03ce00850bb71d614d872c8c07.js",
+    "service-worker.js": "/react-covid19-webapp/service-worker.js",
+    "static/css/main.f122c85e.chunk.css.map": "/react-covid19-webapp/static/css/main.f122c85e.chunk.css.map",
+    "static/js/2.350618e2.chunk.js.LICENSE.txt": "/react-covid19-webapp/static/js/2.350618e2.chunk.js.LICENSE.txt",
+    "static/media/slider-2.jpg": "/react-covid19-webapp/static/media/slider-2.7541c305.jpg",
+    "static/media/slider-3.jpg": "/react-covid19-webapp/static/media/slider-3.074cb260.jpg",
+    "static/media/slider-one.jpg": "/react-covid19-webapp/static/media/slider-one.1b2e066f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.893eef95.js",
+    "static/js/2.350618e2.chunk.js",
+    "static/css/main.f122c85e.chunk.css",
+    "static/js/main.aba56570.chunk.js"
+  ]
+}
